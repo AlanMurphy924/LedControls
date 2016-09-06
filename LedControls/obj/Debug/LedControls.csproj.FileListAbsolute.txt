@@ -1,0 +1,17 @@
+c:\users\alan\documents\visual studio 2015\Projects\LedControls\LedControls\bin\Debug\LedControls.dll
+c:\users\alan\documents\visual studio 2015\Projects\LedControls\LedControls\bin\Debug\LedControls.pdb
+c:\users\alan\documents\visual studio 2015\Projects\LedControls\LedControls\bin\Debug\LedControls.pri
+c:\users\alan\documents\visual studio 2015\Projects\LedControls\LedControls\obj\Debug\LedControls.csprojResolveAssemblyReference.cache
+c:\users\alan\documents\visual studio 2015\Projects\LedControls\LedControls\obj\Debug\LedControls.dll
+c:\users\alan\documents\visual studio 2015\Projects\LedControls\LedControls\obj\Debug\LedControls.pdb
+c:\users\alan\documents\visual studio 2015\Projects\LedControls\LedControls\obj\Debug\priconfig.xml
+c:\users\alan\documents\visual studio 2015\Projects\LedControls\LedControls\obj\Debug\priconfig.xml.intermediate
+c:\users\alan\documents\visual studio 2015\Projects\LedControls\LedControls\obj\Debug\layout.resfiles
+c:\users\alan\documents\visual studio 2015\Projects\LedControls\LedControls\obj\Debug\layout.resfiles.intermediate
+c:\users\alan\documents\visual studio 2015\Projects\LedControls\LedControls\obj\Debug\resources.resfiles
+c:\users\alan\documents\visual studio 2015\Projects\LedControls\LedControls\obj\Debug\resources.resfiles.intermediate
+c:\users\alan\documents\visual studio 2015\Projects\LedControls\LedControls\obj\Debug\pri.resfiles
+c:\users\alan\documents\visual studio 2015\Projects\LedControls\LedControls\obj\Debug\pri.resfiles.intermediate
+c:\users\alan\documents\visual studio 2015\Projects\LedControls\LedControls\obj\Debug\qualifiers.txt
+c:\users\alan\documents\visual studio 2015\Projects\LedControls\LedControls\obj\Debug\qualifiers.txt.intermediate
+c:\users\alan\documents\visual studio 2015\Projects\LedControls\LedControls\obj\Debug\MultipleQualifiersPerDimensionFound.txt
