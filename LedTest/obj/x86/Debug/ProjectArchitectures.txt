@@ -1,2 +1,0 @@
-C:\Users\Alan\Documents\Visual Studio 2015\Projects\LedControls\LedControls\LedControls.csproj;x86
-C:\Users\Alan\Documents\Visual Studio 2015\Projects\LedControls\LedTest\LedTest.csproj;x86
